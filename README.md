@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+##WOW Baby its a Wild world##
+##Right now just perusing the internals## 
 <!--
 **slackedtux/slackedtux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
